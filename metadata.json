@@ -1,0 +1,6 @@
+{
+  "name": "ON Tensura — Contemporary Print-on-Demand Fashion",
+  "description": "Premium contemporary streetwear, creative lifestyle merchandise, and customizable print-on-demand fashion platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
